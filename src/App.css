@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  margin: 3rem;
 }
 
 .App-logo {
@@ -35,4 +36,25 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+button {
+  color: blue;
+  margin-left: 5px;
+}
+
+.card {
+  margin-bottom: 3rem;
+}
+
+div {
+  margin-bottom: 2rem;
+}
+
+#completed {
+  text-decoration: line-through;
+}
+
+#notShowing {
+  color: transparent;
 }
