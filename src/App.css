@@ -56,5 +56,5 @@ div {
 }
 
 #notShowing {
-  color: transparent;
+  display: none;
 }
